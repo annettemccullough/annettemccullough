@@ -10,7 +10,7 @@ Bookmarked Diversity, Equity & Inclusion Articles/Resources
 
 
 ### NPM Packages
-[tracing-logger](https://www.npmjs.com/package/tracing-logger)
+[tracing-logger](https://www.npmjs.com/package/tracing-logger) ([blog](https://annettemccullough.com/blog/correlating-log-messages/)/[repo](https://github.com/annettemccullough/tracing-logger))
 
 An opinionated implementation of the winston logger that simplifies tracing and correlation of log messages within a single application, and across services.
 
