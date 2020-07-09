@@ -1,10 +1,10 @@
 ## Annette McCullough
 
-🖋 [Blog](https://annettemccullough.com/blog)
+[Blog](https://annettemccullough.com/blog)
 
 Opinions on technology, engineering and engineering leadership.
 
-📖 [DEI Resources](https://annettemccullough.com/dei-resources)
+[DEI Resources](https://annettemccullough.com/dei-resources)
 
 Bookmarked Diversity, Equity & Inclusion Articles/Resources
 
