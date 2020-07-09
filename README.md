@@ -2,8 +2,17 @@
 
 🖋 [Blog](https://annettemccullough.com/blog)
 
-📖 [DEI Resources (Bookmarked)](https://annettemccullough.com/dei-resources)
+Opinions on technology, engineering and engineering leadership.
 
-🦜 [Twitter](https://twitter.com/annettemccull)
+📖 [DEI Resources](https://annettemccullough.com/dei-resources)
 
-👩🏼‍💻 [LinkedIn](https://www.linkedin.com/in/annettemccullough/)
+Bookmarked Diversity, Equity & Inclusion Articles & Resources
+
+
+### NPM Packages
+[tracing-logger](https://www.npmjs.com/package/tracing-logger)
+
+An opinionated implementation of the winston logger that simplifies tracing and correlation of log messages within a single application, and across services.
+
+### Social
+🦜 [Twitter](https://twitter.com/annettemccull) 👩🏼‍💻 [LinkedIn](https://www.linkedin.com/in/annettemccullough/)
