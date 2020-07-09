@@ -14,7 +14,7 @@ Bookmarked Diversity, Equity & Inclusion Articles/Resources
 
 An opinionated implementation of the winston logger that simplifies tracing and correlation of log messages within a single application, and across services.
 
-[shares-scraper](https://www.npmjs.com/package/shares-scraper)
+[shares-scraper](https://www.npmjs.com/package/shares-scraper) (used on [dei-resources](https://annettemccullough.com/dei-resources))
 
 Scrape shared posts from a pocket profile and return as json.
 
