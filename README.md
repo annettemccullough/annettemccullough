@@ -10,11 +10,11 @@ Bookmarked Diversity, Equity & Inclusion Articles/Resources
 
 
 ### NPM Packages
-[tracing-logger](https://www.npmjs.com/package/tracing-logger) ([blog](https://annettemccullough.com/blog/correlating-log-messages/)/[repo](https://github.com/annettemccullough/tracing-logger))
+[tracing-logger](https://www.npmjs.com/package/tracing-logger) ([repo](https://github.com/annettemccullough/tracing-logger) / [blog](https://annettemccullough.com/blog/correlating-log-messages/))
 
 An opinionated implementation of the winston logger that simplifies tracing and correlation of log messages within a single application, and across services.
 
-[shares-scraper](https://www.npmjs.com/package/shares-scraper) (used for [dei-resources](https://annettemccullough.com/dei-resources)/[repo](https://github.com/annettemccullough/shares-scraper))
+[shares-scraper](https://www.npmjs.com/package/shares-scraper) ([repo](https://github.com/annettemccullough/shares-scraper) / used for [dei-resources](https://annettemccullough.com/dei-resources))
 
 Scrape shared posts from a pocket profile and return as json.
 
