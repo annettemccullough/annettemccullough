@@ -6,7 +6,7 @@ Opinions on technology, engineering and engineering leadership.
 
 📖 [DEI Resources](https://annettemccullough.com/dei-resources)
 
-Bookmarked Diversity, Equity & Inclusion Articles & Resources
+Bookmarked Diversity, Equity & Inclusion Articles/Resources
 
 
 ### NPM Packages
