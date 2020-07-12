@@ -6,6 +6,8 @@ Opinions on technology, engineering and engineering leadership.
 
 [Bookmarks](http://bookmarks.annettemccullough.com)
 
+Bookmarked articles on various engineering and industry related topics.
+
 ### NPM Packages
 [tracing-logger](https://www.npmjs.com/package/tracing-logger) ([repo](https://github.com/annettemccullough/tracing-logger) / [blog](https://annettemccullough.com/blog/correlating-log-messages/))
 
