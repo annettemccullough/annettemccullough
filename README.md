@@ -6,7 +6,7 @@ Opinions on technology, engineering and engineering leadership.
 
 [Bookmarks](http://bookmarks.annettemccullough.com)
 
-Bookmarked articles on various engineering and industry related topics.
+Bookmarked articles on various engineering and industry related topics. Built using [bookmarks-template](https://github.com/annettemccullough/bookmarks-template)
 
 ### NPM Packages
 [tracing-logger](https://www.npmjs.com/package/tracing-logger) ([repo](https://github.com/annettemccullough/tracing-logger) / [blog](https://annettemccullough.com/blog/correlating-log-messages/))
